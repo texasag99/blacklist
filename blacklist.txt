@@ -29,3 +29,11 @@ ff02::3 ip6-allhosts
 
 #=====================================
 0.0.0.0 www.foxes.com
+0.0.0.0 www.instagram.com
+0.0.0.0 www.imgurl.com
+0.0.0.0 www.girlswithmuscle.com
+0.0.0.0 www.saradas.org
+0.0.0.0 www.shutterstock.com
+0.0.0.0 stock.adobe.com
+0.0.0.0 www.unsplash.com
+0.0.0.0 www.pexels.com
