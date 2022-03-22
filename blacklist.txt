@@ -6,7 +6,7 @@
 0.0.0.0 www.girlswithmuscle.com
 0.0.0.0 www.saradas.org
 0.0.0.0 www.shutterstock.com
-0.0.0.0 stock.adobe.com
+# 0.0.0.0 stock.adobe.com
 0.0.0.0 www.playboy.com
 0.0.0.0 www.penthouse.com
 0.0.0.0 www.penthouse.com
