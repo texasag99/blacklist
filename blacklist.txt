@@ -72,8 +72,9 @@
 0.0.0.0 www.myhotzpic.com
 0.0.0.0 www.landofvenus.com
 0.0.0.0 www.istockphoto.com
+0.0.0.0 www.bing.com
 # 0.0.0.0 www.youtube.com
-0.0.0.0 www.bing.com/images/
+
 
 
 
