@@ -74,9 +74,11 @@
 0.0.0.0 www.istockphoto.com
 0.0.0.0 www.bing.com
 0.0.0.0 www.tumblr.com
+0.0.0.0 www.dailymotion.com
 # 0.0.0.0 www.myminifactory.com
 # 0.0.0.0 www.craiyon.com
 # 0.0.0.0 www.youtube.com
+
 
 
 
