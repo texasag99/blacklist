@@ -77,6 +77,7 @@
 0.0.0.0 www.dailymotion.com
 0.0.0.0 www.dailymail.co.uk
 0.0.0.0 www.vimeo.com
+0.0.0.0 www.odysee.com
 # 0.0.0.0 www.myminifactory.com
 # 0.0.0.0 www.craiyon.com
 # 0.0.0.0 www.youtube.com
