@@ -85,6 +85,7 @@
 0.0.0.0 www.pressreader.com
 0.0.0.0 www.reddit.com
 0.0.0.0 www.idPoster.com
+0.0.0.0 gallerix.org
 # 0.0.0.0 www.myminifactory.com
 # 0.0.0.0 www.craiyon.com
 # 0.0.0.0 www.youtube.com
