@@ -87,6 +87,9 @@
 0.0.0.0 www.idPoster.com
 0.0.0.0 gallerix.org
 0.0.0.0 imgur.com
+0.0.0.0 www.myminifactory.com
+0.0.0.0 studio3dprint.net
+0.0.0.0 www.coooolstuff.com
 # 0.0.0.0 www.myminifactory.com
 # 0.0.0.0 www.craiyon.com
 # 0.0.0.0 www.youtube.com
