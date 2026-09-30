@@ -91,6 +91,7 @@
 0.0.0.0 studio3dprint.net
 0.0.0.0 www.coooolstuff.com
 0.0.0.0 comicsplusapp.com
+0.0.0.0 issuu.com
 # 0.0.0.0 www.craiyon.com
 # 0.0.0.0 www.youtube.com
 
