@@ -93,6 +93,7 @@
 0.0.0.0 comicsplusapp.com
 0.0.0.0 issuu.com
 0.0.0.0 nightcafe.studio
+0.0.0.0 freeclassicimages.com
 # 0.0.0.0 www.craiyon.com
 # 0.0.0.0 www.youtube.com
 
