@@ -1,0 +1,10 @@
+0.0.0.0 www.dailymotion.com
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 www.yahoo.com
+0.0.0.0 yahoo.com
+0.0.0.0 tubitv.com
+0.0.0.0 pluto.tv
+0.0.0.0 archive.org
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
